@@ -1,0 +1,5 @@
+AI disclosure: developed with OpenAI Codex. Full in-game and native-speaker review is still pending.
+
+OneChat enhances ESO’s vanilla keyboard chat with per-tab incoming and outgoing channels, remembered channel selection, temporary whispers, timestamps, guild abbreviations, and message copying. Optional matching gold buttons provide home travel, UI reload, and interface language selection. Includes seven UI languages.
+
+Requires LibAddonMenu-2.0 version 43 or later. Settings: /onechat.
